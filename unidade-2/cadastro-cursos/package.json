@@ -1,0 +1,16 @@
+{
+  "name": "cadastro-cursos",
+  "version": "1.0.0",
+  "description": "Sistema de cadastro de cursos em memória - Unidade 2",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [
+    "javascript",
+    "arrays",
+    "objetos"
+  ],
+  "author": "Denju Gabrield SL",
+  "license": "ISC"
+}
