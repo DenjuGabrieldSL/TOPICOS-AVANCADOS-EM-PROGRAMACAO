@@ -1,0 +1,17 @@
+{
+  "name": "central-relatorios-academicos",
+  "version": "1.0.0",
+  "description": "Central modular de relatórios acadêmicos - Unidade 3",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [
+    "javascript",
+    "node",
+    "ecmascript-modules"
+  ],
+  "author": "Denju Gabrield SL",
+  "license": "ISC"
+}
