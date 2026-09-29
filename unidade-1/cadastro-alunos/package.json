@@ -1,0 +1,12 @@
+{
+  "name": "cadastro-alunos",
+  "version": "1.0.0",
+  "description": "Cadastro e análise de alunos - Unidade 1",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
