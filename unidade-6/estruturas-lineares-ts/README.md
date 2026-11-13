@@ -1,0 +1,1 @@
+Na raiz do projeto, coloque a documentação que foi apresentada anteriormente, incluindo objetivo, estruturas, integração, complexidade e instruções de execução.
